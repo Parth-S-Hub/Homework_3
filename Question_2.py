@@ -28,3 +28,4 @@ a20.right=a7
 a3.left=a9
 a3.right=a20
 print(solution(a3))
+## The time complexity is O(n) due to recursion
