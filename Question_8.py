@@ -13,4 +13,4 @@ if __name__ == '__main__':
         print("True")
     else:
         print("False")
-##Time complexity is O(NlogN) since we are usuing sorted
+##Time complexity is O(NlogN) since we are using sorted
